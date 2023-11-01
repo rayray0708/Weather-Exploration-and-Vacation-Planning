@@ -1,4 +1,4 @@
-![Illustration of worldwide weather](https://www.researchgate.net/profile/Seung-Ki-Min/publication/338346212/figure/fig1/AS:903250928742401@1592363211090/a-snapshot-of-global-weather-Global-map-of-near-surface-temperature-anomalies-in-C.png)
+![Illustration of worldwide weather](https://img.freepik.com/free-vector/hand-drawn-water-cycle-illustration_23-2149107732.jpg?w=1800&t=st=1698824765~exp=1698825365~hmac=e03c73de147c19b92f341c6c281f3765e955d5fc589663a109d418b52a64d2b5)
 # python_api_challenge
 ## Description
 In this project, I'm tasked with answering the question: "What is the weather like as we approach the equator?". In the first part (part 1) of the project, I've created a Python script to visualise the weather of over 500 cities of varying distances from the equator. Using citipy Python library and OpenWeatherMap API, I've created a representative model of weather across cities. In the second part of the project, I use the weather data from part 1 to plan future vacations.
