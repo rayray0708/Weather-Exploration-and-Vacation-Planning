@@ -6,10 +6,10 @@ In this project, I'm tasked with answering the question: "What is the weather li
 Please navigate to the WeatherPy folder for the code for WeatherPy (part 1) and VacationPy (part  2). 
 Please navigate to the output folder for a cities data csv file and 4 other png files of scatterplots generated in part 1 of the project.
 ## Installations
-The following dependencies are needed to run the code. Please copy the exact code below to your code editor to import these dependencies:
--Pandas: (1) pip install pandas, (2) import pandas as pd
--hvPlot: (1) pip install holoviews hvplot, (2) import hvplot.pandas
--requests: (1) pip install requests, (2) import requests
+The following dependencies are needed to run the code. Please copy the exact code below to your code editor to import these dependencies:\
+-Pandas: (1) pip install pandas, (2) import pandas as pd\
+-hvPlot: (1) pip install holoviews hvplot, (2) import hvplot.pandas\
+-requests: (1) pip install requests, (2) import requests\
 -Path: from pathlib import Path
 
 ## Weather exploration
@@ -45,6 +45,8 @@ The following parameters were used for the map:
 5. frame_width: `800`
 6. frame_height: `500`
 7. hover_cols: `Country` and `Hotel Name`
+
+![Alt text](<Screenshot 2023-12-17 at 10.51.56 pm.png>)
 
 ## Credits
 Special thanks to these individuals for their contributions to the project:
