@@ -7,10 +7,10 @@ Please navigate to the WeatherPy folder for the code for WeatherPy (part 1) and 
 Please navigate to the output folder for a cities data csv file and 4 other png files of scatterplots generated in part 1 of the project.
 ## Installations
 The following dependencies are needed to run the code. Please copy the exact code below to your code editor to import these dependencies:\
--Pandas: (1) pip install pandas, (2) import pandas as pd\
--hvPlot: (1) pip install holoviews hvplot, (2) import hvplot.pandas\
--requests: (1) pip install requests, (2) import requests\
--Path: from pathlib import Path
+-Pandas: (1) `pip install pandas`, (2) `import pandas as pd`\
+-hvPlot: (1) `pip install holoviews hvplot`, (2) `import hvplot.pandas`\
+-requests: (1) `pip install requests`, (2) `import requests`\
+-Path: `from pathlib import Path`
 
 ## Weather exploration
 ### Step 1: Create a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
